@@ -1,0 +1,1 @@
+timeDic = {"retina":40, "codigo":50, "palabra":30, "complejo":70, "sin":0}
